@@ -1,0 +1,2 @@
+# ignore checkpoints folder in Notebooks/
+Notebooks/.ipynb_checkpoints/
